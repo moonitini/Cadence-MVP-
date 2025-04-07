@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .font-cursive {
+    font-family: cursive;
+  }
+
+  .bg-customBlue {
+    background-color: #4f5da0;
+  }
+}
+
